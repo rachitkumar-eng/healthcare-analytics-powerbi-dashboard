@@ -135,7 +135,8 @@ healthcare-analytics-powerbi-dashboard/
 
 ##  Dashboard Preview
 
-
+hospital-performance-patient-experience-analytics/overview.png
+hospital-performance-patient-experience-analytics/model-view.png
 
 
 ---

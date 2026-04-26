@@ -135,8 +135,8 @@ healthcare-analytics-powerbi-dashboard/
 
 ##  Dashboard Preview
 
-hospital-performance-patient-experience-analytics/overview.png
-hospital-performance-patient-experience-analytics/model-view.png
+[hospital-performance-patient-experience-analytics/overview.png](https://github.com/rachitkumar-eng/healthcare-analytics-powerbi-dashboard/blob/main/hospital-performance-patient-experience-analytics/overview.png?raw=true)
+[hospital-performance-patient-experience-analytics/model-view.png](https://github.com/rachitkumar-eng/healthcare-analytics-powerbi-dashboard/blob/main/hospital-performance-patient-experience-analytics/model-view.png?raw=true)
 
 
 ---
